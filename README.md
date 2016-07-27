@@ -3,6 +3,7 @@
 ##How to run: 
 
 cd ../Path/to/TheRoadProject
+
 python TheRoad.py <inputFlie.csv> <Section> <distance-between-two-sections-lines>
 
 ##output:
