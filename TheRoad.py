@@ -35,7 +35,7 @@ output=open('lenght.csv', 'wb')
 writer = csv.writer(output)
 output=open('section.csv', 'wb')
 writer2 = csv.writer(output)
-currentp=0;
+currentp=-lenght;
 i=0;
 while(i<(len(points)-1)):
     currentp=lenght+currentp;
